@@ -8,7 +8,6 @@ Setup Instructions
 ⦁	To test the API either Postman can be used or can use the frontend code above
 
 
-
 API Calls
 User Signup
 API Name: /signup
