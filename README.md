@@ -1,7 +1,5 @@
 # BlogPostBackend
 
-# BlogPostBackend
-
 ## Setup Instructions
 
 1. Clone/copy the code from repo
